@@ -2,15 +2,16 @@
 
 ## Oyun Tanıtımı
 
-"""
+
 Oyunumuz 2 Boyutlu Pixelart grafikli aksiyon oyunu. Özet geçmek gerekirse bir karaktere hayat
 verdiğimiz ve sürekli geliştirdiğimiz, güçlendirdiğimiz bir yapıdan oluşuyor.
-Karakterimizin diyarında dostlarımız ve düşmanlarımızdan oluşan NPC’ler mevcut. Düşman
-olduğumuz npc’leri alt ettiğimizde türüne ve seviyesine göre dinar kazanıyoruz. Bu dinarları
+Karakterimizin diyarında dostlarımız ve düşmanlarımızdan oluşan NPC’ler mevcut. 
+
+Düşman olduğumuz npc’leri alt ettiğimizde türüne ve seviyesine göre dinar kazanıyoruz. Bu dinarları
 Tüccar ve Silahçı npc’lerde harcayıp daha güçlü ekipmanlara sahip olabiliyoruz.
 Ek görevleri, görevler tabelasından alabiliyoruz. Ana kamp ateşimizin yanındaki sandığa
 ekipmanlarımızı saklayabiliyoruz.
-"""
+
 
 
 ## Oyun Development Alanı ( Unity )
