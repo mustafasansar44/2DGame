@@ -1,3 +1,3 @@
 # 2DGame
 
-![plot](GameImages\Düşman.PNG)
+![plot](./GameImages/oyunDevelopmentAlan.png)
